@@ -44,7 +44,7 @@ function() {
 
 Si on essaye d'accéder directement à la page */devant-le-match*, on est redirigé vers la page d'accueil, avec ce message :  
 
-![acces refuse](access-refuse.png)
+![acces refuse](acces-refuse.png)
 
 ## Récupération du flag
 
