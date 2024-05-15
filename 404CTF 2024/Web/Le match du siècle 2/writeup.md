@@ -63,11 +63,12 @@ Tout est ok, il n'y a plus qu'à remplacer notre JWT par ce nouveau token :
 ![denied](denied.png)
 
 Il semblerai que nous sommes sur la bonne piste, mais qu'une forme de protection a été mise en place. Cette protection nous bloque l'accès au endpoint pour récupérer nos billets (le bouton *Obtenir*), il nous reste encore à savoir si ce endpont a lui aussi une protection ou si la *seule* protection est d'empêcher l'utilisateur d'accéder au endpoint depuis l'application web. 
+
 En se reconnectant, notre JWT est réinitialisé, ce qui nous permets d'avoir de nouveau accès à la page */billets*. Il est temps de sortir BurpSuite pour mieux comprendre ! Voici donc ce qu'il se passe quand on clique sur *Obtenir* :
 
 ![api](api.png)
 
-Intéressant, un *POST* vers une API est fait, voyons si celle-ci se comporte avec notre JWT modifié !
+Intéressant, un *POST* vers une API est fait, voyons comment celle-ci se comporte avec notre JWT modifié !
  
 ## Récupération du flag
 
