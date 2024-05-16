@@ -1,6 +1,6 @@
 # Légende
 
-***404 CTF WriteUp | ### Renseignement en sources ouvertes - Introduction***
+***404 CTF WriteUp | Renseignement en sources ouvertes - Introduction***
 
 ## Énoncé
 
