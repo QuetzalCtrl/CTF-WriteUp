@@ -1,7 +1,7 @@
 ## 404 CTF - 2024
 
-🏆 **Placement** : 458/3269 (2010 points)
-🗓️ **Durée** : du 20 avril 2024 au 12 mai
+- 🏆 **Placement** : 458/3269 (2010 points)
+- 🗓️ **Durée** : du 20 avril 2024 au 12 mai
 
 ### Challenges
 
