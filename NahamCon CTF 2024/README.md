@@ -4,6 +4,9 @@
 - 🏆 **Placement** : 622/2653 (783 points)
 - 🗓️ **Durée** : 48h - du 23 au 25 mai 2024
 
+
+![cert](nahamcon_cert.png)
+
 ### Challenges
 
 - 🌡️ **Warmups**
