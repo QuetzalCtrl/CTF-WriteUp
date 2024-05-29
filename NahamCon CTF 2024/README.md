@@ -13,7 +13,7 @@
     - [QRRRRRRRR](./Warmups/QRRRRRRRR/writeup.md)
     - [Uriel](./Warmups/Uriel/writeup.md)
     - [That's Not My Base](./Warmups/That's%20Not%20My%20Base/writeup.md)
-    - Twine
+    - [Twine](./Warmups/Twine/writeup.md)
     - Read The Rules
     - Technical Support
     - EICAR
