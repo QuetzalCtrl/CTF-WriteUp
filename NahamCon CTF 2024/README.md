@@ -1,7 +1,7 @@
 
 ## NahamCon CTF - 2024
 
-- 🏆 **Placement** : 622/2653 (783 points)
+- 🏆 **Placement** : 622/4071 (783 points)
 - 🗓️ **Durée** : 48h - du 23 au 25 mai 2024
 
 
