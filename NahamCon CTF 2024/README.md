@@ -10,9 +10,9 @@
 ### Challenges
 
 - 🌡️ **Warmups**
-    - QRRRRRRRR
-    - Uriel
-    - That's Not My Base
+    - [QRRRRRRRR](./Warmups/QRRRRRRRR/writeup.md)
+    - [Uriel](./Warmups/Uriel/writeup.md)
+    - [That's Not My Base](./Warmups/That's%20Not%20My%20Base/writeup.md)
     - Twine
     - Read The Rules
     - Technical Support
