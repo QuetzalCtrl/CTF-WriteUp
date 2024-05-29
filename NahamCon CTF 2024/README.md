@@ -15,7 +15,6 @@
     - [That's Not My Base](./Warmups/That's%20Not%20My%20Base/writeup.md)
     - [Twine](./Warmups/Twine/writeup.md)
     - [EICAR](./Warmups/EICAR/writeup.md)
-    - [Copypasta](./Warmups/Copypasta/writeup.md)
 - 🌐 **Web**
    - iDoor
    - All About Robots
