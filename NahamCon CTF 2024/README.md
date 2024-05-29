@@ -17,7 +17,7 @@
     - [EICAR](./Warmups/EICAR/writeup.md)
 - 🌐 **Web**
    - iDoor
-   - All About Robots
+   - [All About Robots](./Web/All%20About%20Robots/writeup.md)
    - Hacker Web Store
    - Thomas DEVerson
    - The Davinci Code
