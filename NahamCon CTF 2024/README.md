@@ -14,10 +14,8 @@
     - [Uriel](./Warmups/Uriel/writeup.md)
     - [That's Not My Base](./Warmups/That's%20Not%20My%20Base/writeup.md)
     - [Twine](./Warmups/Twine/writeup.md)
-    - Read The Rules
-    - Technical Support
-    - EICAR
-    - Copypasta
+    - [EICAR](./Warmups/EICAR/writeup.md)
+    - [Copypasta](.Warmups/Copypasta/writeup.md)
 - 🌐 **Web**
    - iDoor
    - All About Robots
