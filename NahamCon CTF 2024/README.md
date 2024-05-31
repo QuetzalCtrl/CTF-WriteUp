@@ -18,7 +18,7 @@
 - 🌐 **Web**
    - iDoor
    - [All About Robots](./Web/All%20About%20Robots/writeup.md)
-   - Hacker Web Store
+   - [Hacker Web Store](./Web/Hacker%20Web%20Store/writeup.md)
    - Thomas DEVerson
    - The Davinci Code
 - 🔐 **Cryptography**
